@@ -1,0 +1,18 @@
+BW1: false
+BW2: false
+NTA: true
+NTZ: true
+ELO: true
+Res: true
+ElG: true
+LSH: true
+LSV: true
+BM : true
+Res: false
+Res: false
+Res: false
+Res: false
+Res: false
+Res: false
+
+True entspricht LOW-AKTIV
